@@ -3,7 +3,7 @@
 2 Player pong game! Built with python and pygame.
 
 <p align='center'>
-	<img src='app.png' width=200 height=300>
+	<img src='app.png' width=500 height=300>
 </p>
 
 # Requirements
